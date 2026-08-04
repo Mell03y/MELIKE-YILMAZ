@@ -24,7 +24,7 @@ I am building an interdisciplinary academic background at the intersection of
 
 My current studies focus on quantum mechanics, nuclear and radiation physics, mathematical methods in physics, and introductory quantum computing. I am especially interested in using computational tools to model, analyse, and better understand complex physical systems.
 
-* 🎓 **Education:** B.Sc. in Physics — `UNIVERSITY NAME`
+* 🎓 **Education:** B.Sc. in Physics
 * 📍 **Location:** Türkiye
 * 🔭 **Current focus:** Quantum mechanics, quantum computing, and computational physics
 * 🌱 **Currently learning:** Qiskit, scientific programming, numerical methods, and data analysis

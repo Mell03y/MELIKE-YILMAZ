@@ -78,38 +78,6 @@ My current studies focus on quantum mechanics, nuclear and radiation physics, ma
 
 ---
 
-## Selected Projects
-
-### Quantum Circuit Studies
-
-`Qiskit · Python · Quantum Computing`
-
-A collection of introductory quantum circuits covering superposition, entanglement, measurement, and fundamental quantum gates.
-
-**Repository:** [View project](YOUR_PROJECT_URL)
-
----
-
-### Computational Physics Exercises
-
-`Python · C++ · Numerical Methods`
-
-Numerical and analytical exercises involving mathematical physics, matrix operations, wave functions, probability calculations, and physical modelling.
-
-**Repository:** [View project](YOUR_PROJECT_URL)
-
----
-
-### Nuclear and Radiation Physics Notes
-
-`Physics · Scientific Writing · Markdown`
-
-Structured academic notes and solved problems on nuclear structure, radioactive decay, radiation interactions, spin–parity calculations, and related topics.
-
-**Repository:** [View project](YOUR_PROJECT_URL)
-
----
-
 ## Education
 
 ### Bachelor of Science in Physics

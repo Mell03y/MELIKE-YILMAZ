@@ -126,16 +126,6 @@ Computational Science
 </div>
 
 ---
-
-## Contact
-
-I am open to academic collaboration, research opportunities, student projects, summer schools, and interdisciplinary work involving physics and quantum technologies.
-
-* **Email:** `YOUR_EMAIL`
-* **LinkedIn:** [YOUR LINKEDIN NAME](YOUR_LINKEDIN_URL)
-* **ORCID:** [YOUR ORCID ID](YOUR_ORCID_URL)
-* **Google Scholar:** [Academic profile](YOUR_GOOGLE_SCHOLAR_URL)
-
 ---
 
 <div align="center">

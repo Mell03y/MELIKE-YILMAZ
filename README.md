@@ -91,16 +91,6 @@ Relevant coursework:
 
 ---
 
-## Certificates and Academic Programs
-
-* **`CERTIFICATE OR PROGRAM NAME`** — `INSTITUTION`, `YEAR`
-* **`CERTIFICATE OR PROGRAM NAME`** — `INSTITUTION`, `YEAR`
-* **`CERTIFICATE OR PROGRAM NAME`** — `INSTITUTION`, `YEAR`
-
-> Replace this section with completed courses, summer schools, workshops, research programs, or online certificates.
-
----
-
 ## Current Academic Focus
 
 ```text

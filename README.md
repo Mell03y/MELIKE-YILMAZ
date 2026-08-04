@@ -78,13 +78,6 @@ My current studies focus on quantum mechanics, nuclear and radiation physics, ma
 
 ---
 
-## Education
-
-### Bachelor of Science in Physics
-
-**`UNIVERSITY NAME`**
-`START YEAR – EXPECTED GRADUATION YEAR`
-
 Relevant coursework:
 
 * Quantum Mechanics
